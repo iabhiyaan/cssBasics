@@ -1,0 +1,19 @@
+body{
+    font-family: sans-serif;
+}
+code{
+    font-family: 'Courier New', Courier, monospace;
+    color:#d63031;
+}
+.highlited-green{
+    color:#27ae60;
+    font-family: 'Courier New', Courier, monospace;
+}
+code{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:pink;
+}
+ ol li {
+     background-color:black;
+     color:white;
+ }
